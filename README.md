@@ -32,10 +32,11 @@ myReadFile('theFirst.json')
 ```
 
 
-### 各文件内容备忘
+## 各文件内容备忘
 
 * t0000 -- 瞎写，怎么方便怎么来
 * t0001 -- 模拟/实现书本 p181 中例子
 * t0002 -- 模拟/实现书本 p183 中例子，涉及 Promise.all
 * t0003 -- 单个 Promise 测试 resolve & reject，以及 .then
 * t0004 -- Promise 中的时序验证
+* t0005 -- 重温 Promise 之多个回调，多个异步
